@@ -9,10 +9,3 @@ for num in numbers:
         print(f"{num}rd")
     else:
         print(f"{num}th")
-
-genders = ["Male", "Female"]
-counties = ["Orange County", "LA County", "Riverside county"]
-
-students = [[gender, county] for gender in genders for county in counties]
-
-print(students)
