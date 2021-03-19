@@ -1,4 +1,5 @@
 def favorite_book(title):
     print(f"One of my favorite books is {title}")
 
-favorite_book('Off to Be the Wizard: Magic 2.0')
+
+favorite_book("Off to Be the Wizard: Magic 2.0")
