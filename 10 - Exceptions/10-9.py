@@ -5,9 +5,9 @@ def print_file(filename):
             file = f.read()
     except FileNotFoundError:
         pass
-        #print(f"Sorry, the file {filename} does not exist.")
+        # print(f"Sorry, the file {filename} does not exist.")
     else:
-        print(f'{filename}:')
+        print(f"{filename}:")
         print(file)
 
 
