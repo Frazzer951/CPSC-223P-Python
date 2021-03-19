@@ -5,8 +5,8 @@ for river in rivers:
 
 print("The Rivers:")
 for river in rivers:
-    print("\t"+river)
+    print("\t" + river)
 
 print("The Countries:")
 for river in rivers:
-    print("\t"+rivers[river])
+    print("\t" + rivers[river])
