@@ -1,0 +1,4 @@
+1.  Python was created by Guido van Rossum and released on February 20, 1991
+    P.E.P - Python Enhancement Proposal
+    PEPs are documents that are proposals for future features for python, and also provide documents for existing theories.
+
