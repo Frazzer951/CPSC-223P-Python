@@ -1,0 +1,2 @@
+1. If you have multiple classes that are all very similar, you would want to make a base class that the others can derive from, so you do not have to do unnecessary code
+2. If you're base class is not something that should be implimented in code. ABC will stop people from using it. 
